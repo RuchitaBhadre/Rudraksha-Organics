@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Rudraksha-Organics/static/css/main.e4d91a39.css",
+    "main.js": "/Rudraksha-Organics/static/js/main.14fcf5bf.js",
+    "static/js/787.52043608.chunk.js": "/Rudraksha-Organics/static/js/787.52043608.chunk.js",
+    "static/media/logo.png": "/Rudraksha-Organics/static/media/logo.ef800eb0c4920fd9a39e.png",
+    "index.html": "/Rudraksha-Organics/index.html",
+    "main.e4d91a39.css.map": "/Rudraksha-Organics/static/css/main.e4d91a39.css.map",
+    "main.14fcf5bf.js.map": "/Rudraksha-Organics/static/js/main.14fcf5bf.js.map",
+    "787.52043608.chunk.js.map": "/Rudraksha-Organics/static/js/787.52043608.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4d91a39.css",
+    "static/js/main.14fcf5bf.js"
+  ]
+}
